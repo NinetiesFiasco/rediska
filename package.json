@@ -1,0 +1,15 @@
+{
+  "name": "rediska",
+  "version": "1.0.0",
+  "description": "redis tests",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Anton",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^2.8.0"
+  }
+}
